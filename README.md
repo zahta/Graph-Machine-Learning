@@ -5,7 +5,7 @@
 
 |<b>Lecturer</b>    |   |
 |:-:|:-:|
-| <img src="https://github.com/zahta/graph_ml/blob/main/images/zahta_1.png"  width=170pt > <br> <b>[Zahra Taheri](https://github.com/zahta)</b>   | **[Data Science Center](http://ds.sbu.ac.ir/)**  <br>  <br> **[Shahid Beheshti University](https://en.sbu.ac.ir/)** <br>  <br> <b> Winter 2023</b> |
+| <img src="https://github.com/user-attachments/assets/781961f7-0ca6-4370-9b73-281db5995ec4"  width=170pt > <br> <b>[Zahra Taheri](https://github.com/zahta)</b>   | **[Graduate Course](https://github.com/zahta/Graph-Machine-Learning)**  <br>  <br> **[Data Science Center](http://ds.sbu.ac.ir/)**  <br>  <br> **[Shahid Beheshti University](https://en.sbu.ac.ir/)** <br>  <br> <b> Winter 2023</b> |
 
 
 ## :bulb: Course Overview
